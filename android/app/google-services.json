@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937219849252",
+    "project_id": "coorgle-test",
+    "storage_bucket": "coorgle-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937219849252:android:06031f6bb05c7eee466cb1",
+        "android_client_info": {
+          "package_name": "com.example.coorgle_test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937219849252-lm7p1s6cu5c8reok049rhlj5kb4kjvdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjGh4pXwfaPM_QfAiiXe4s15-vYLBTSGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937219849252-lm7p1s6cu5c8reok049rhlj5kb4kjvdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
